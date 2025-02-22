@@ -7,7 +7,8 @@ A production-ready Subscription Management System API that handles real users, r
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB, Mongoose  
 - **Security**: JWT Authentication, Advanced Rate Limiting (Arcjet)  
-- **Automation**: Upstash for email workflows  
+- **Automation**: Upstash for email workflows
+- **Testing & Debugging**: Postman for API testing 
 
 ## Features
 - **Advanced Rate Limiting and Bot Protection**: Secure the entire app using Arcjet to prevent abuse.  
